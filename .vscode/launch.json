@@ -9,7 +9,7 @@
             "cwd": "backend",
             "request": "launch",
             "type": "dart",
-            "program": "bin/sever.dart"
+            "program": "bin/server.dart"
         },
         {
             "name": "frontend",
